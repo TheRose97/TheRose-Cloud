@@ -13,7 +13,7 @@ header-footer:
         - "<#FFFFFF>&m                                                </#FFFF00>"
         - "&3&l${TAB_NAME}"
         - "&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
-        - "&r&7Online players: &f%online%
+        - "&r&7Online players: &f%online%"
         - ""
       footer:
         - "%animation:time%"
