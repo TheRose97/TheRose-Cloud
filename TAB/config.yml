@@ -11,14 +11,13 @@ header-footer:
     default:
       header:
         - "<#FFFFFF>&m                                                </#FFFF00>"
-        - "&3&l${TAB_NAME}"
+        - "&3&l$Server name"
         - "&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
         - "&r&7Online players: &f%online%"
         - ""
       footer:
         - "%animation:time%"
         - "&2Ping: %ping%"
-        - ""
         - "<#FFFFFF>&m                                                </#FFFF00>"
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Tablist-name-formatting
